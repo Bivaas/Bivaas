@@ -18,7 +18,7 @@ A curious and creative tech enthusiast from Nepal 🚀
 I enjoy reverse-engineering how tech works behind the scenes — from software to systems 🤓  
 
 ## 🌐 Connect with Me  
-[Email](mailto:your.email@gmail.com) | [LeetCode](https://leetcode.com/) | [Dev.to](https://dev.to/) | [Portfolio](https://yourportfolio.com)
+[Email](mailto:your.email@gmail.com) | [LeetCode](https://leetcode.com/) | [Dev.to](https://dev.to/) | [Portfolio](https://bivaasbaral.netlify.app/)
 
 ---
 
