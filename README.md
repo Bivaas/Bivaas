@@ -40,7 +40,8 @@ I enjoy breaking down how systems work internally—especially security and arch
 ## 🌐 Connect With Me
 
 * Email: [bivaasbaral7@gmail.com](mailto:bivaasbaral7@gmail.com)
-* Portfolio: [https://bivaas.me](https://bivaas.me)
+* Portfolio: [https://bivaasbaral.com.np](https://bivaasbaral.com.np)
+* About Me: [https://bivaas.me](https://bivaas.me)
 * GitHub: [https://github.com/bivaas](https://github.com/bivaas)
 * LinkedIn: [https://www.linkedin.com/in/bivaas/](https://www.linkedin.com/in/bivaas/)
 
