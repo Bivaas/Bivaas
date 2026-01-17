@@ -6,7 +6,7 @@ A curious and detail‑oriented developer from Nepal, focused on building **mode
 
 ---
 
-## 🚀 Current Focus (2025)
+## 🚀 Current Focus
 
 * Building **full‑stack applications** with **Next.js (App Router)**, **React**, **Node.js**, and **MongoDB**
 * Creating **clean, responsive, and accessible UIs** using **Tailwind CSS**, **shadcn/ui**, and **Framer Motion**
