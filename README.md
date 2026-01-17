@@ -39,11 +39,10 @@ I enjoy breaking down how systems work internally—especially security and arch
 
 ## 🌐 Connect With Me
 
-* Email: **[ADD EMAIL HERE]**
-* Portfolio: [https://bivaasbaral.com.np](https://bivaasbaral.com.np)
-* LeetCode: **[ADD LEETCODE LINK]**
-* Dev.to: **[ADD DEV.TO LINK]**
-* GitHub: [https://github.com/[ADD](https://github.com/[ADD) USERNAME IF DIFFERENT]
+* Email: [bivaasbaral7@gmail.com](mailto:bivaasbaral7@gmail.com)
+* Portfolio: [https://bivaas.me](https://bivaas.me)
+* GitHub: [https://github.com/bivaas](https://github.com/bivaas)
+* LinkedIn: [https://www.linkedin.com/in/bivaas/](https://www.linkedin.com/in/bivaas/)
 
 ---
 
